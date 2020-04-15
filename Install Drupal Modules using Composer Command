@@ -1,0 +1,8 @@
+1. Go to your Drupal project directory : project folder 
+2. and navigate to : web/modules/
+3. open terminal in this directory
+4. now run this command : composer require drupal/your_module_name
+
+---------------------------------
+eg: composer require drupal/devel
+---------------------------------
